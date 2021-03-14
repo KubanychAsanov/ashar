@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437186549195",
+    "project_id": "asharapp-a2f1c",
+    "storage_bucket": "asharapp-a2f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437186549195:android:9486d1fedf558ec2fad24e",
+        "android_client_info": {
+          "package_name": "com.example.ashar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437186549195-12vv1j991n1ncffkkcvs92sf6e3j28li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashar",
+            "certificate_hash": "bbab2057d0237109d9ad20be6918b6c9733df937"
+          }
+        },
+        {
+          "client_id": "437186549195-761cjt2tkii2827k2onhkbubg13pl30s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoMBh-UjcSiOXxGvWLXChjWxUGHwDakc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437186549195-761cjt2tkii2827k2onhkbubg13pl30s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
